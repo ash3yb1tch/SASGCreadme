@@ -19,17 +19,27 @@
       <a href="#getting-started">Getting Started</a>
         <ul> 
           <li><a href="#open-parties-and-claims">Open Parties and Claims</a></li>
-          <li><a href="#simple-voice-chat">Roadmap</a></li>
-          <li><a href="#travelers-backpack">Contributing</a></li>
-          <li><a href="#rightclickharvest">License</a></li>
-          <li><a href="#farmers-delight">Contact</a></li>
-          <li><a href="#growthcraftce">Acknowledgments</a></li>
-          <li><a href="#enchantment-descriptions">Acknowledgments</a></li>
-          <li><a href="#mrcrayfishs-furniture-mod">Acknowledgments</a></li>
-          <li><a href="#Paintings ++">Acknowledgments</a></li>
+          <li><a href="#simple-voice-chat">Simple Voice Chat</a></li>
+          <li><a href="#travelers-backpack">Traveler's Backpack</a></li>
+          <li><a href="#rightclickharvest">RightClickHarvest</a></li>
+          <li><a href="#farmers-delight">Farmer's Delight</a></li>
+          <li><a href="#growthcraftce">GrowthcraftCE</a></li>
+          <li><a href="#enchantment-descriptions">Enchantment Descriptions</a></li>
+          <li><a href="#mrcrayfishs-furniture-mod">MrCrayfish's Furniture Mod</a></li>
+          <li><a href="#paintings-">Paintings ++</a></li>
         </ul>
     </li> 
-  <li><a href="#extra-version-additions">Extra Version Additions</a></li>
+    <li>
+    <a href="#extra-version-additions">Extra Version Additions</a>
+      <ul> 
+          <li><a href="#jei-and-jer">JEI and JER</a></li>
+          <li><a href="#xaeros-minimap-and-worldmap">Xaero's Minimap and Worldmap</a></li>
+          <li><a href="#mousetweaks">Mouse Tweaks</a></li>
+      </ul>
+    </li>
+    <li>
+       <a href="#extras">Extras</a>
+    </li>
   </ol>
 </details>
 
@@ -101,6 +111,11 @@ Going right into the reason for why I even really needed to write any of this, w
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+# Extras
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
