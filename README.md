@@ -18,15 +18,15 @@
     <li>
       <a href="#getting-started">Getting Started</a>
         <ul> 
-          <li><a href="Getting Started">Usage</a></li>
-          <li><a href="#roadmap">Roadmap</a></li>
-          <li><a href="#contributing">Contributing</a></li>
-          <li><a href="#license">License</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#acknowledgments">Acknowledgments</a></li>
+          <li><a href="#open-parties-and-claims">Open Parties and Claims</a></li>
+          <li><a href="#simple-voice-chat">Roadmap</a></li>
+          <li><a href="#traveler's-backpack">Contributing</a></li>
+          <li><a href="#rightclickharvest">License</a></li>
+          <li><a href="#farmer's-delight">Contact</a></li>
+          <li><a href="#growthcraftce">Acknowledgments</a></li>
         </ul>
     </li> 
-  <li><a href="Extra Version Additions">Extra Version Additions</a></li>
+  <li><a href="#extra-version-additions">Extra Version Additions</a></li>
   </ol>
 </details>
 
@@ -37,7 +37,7 @@
 First off, I'm going to assume you installed one of the two modpack files included in the discord, judging by how you clicked on this link. If you haven't go back to #mc-annoucements and click on the pinned messages button to get them and read my directions there.
 
 
-## Open Parties and Claim
+## Open Parties and Claims
 
 Going right into the reason for why I even really needed to write any of this, we have OpenPAC and its unnecessarily confusing commands. 
 
@@ -45,34 +45,53 @@ Going right into the reason for why I even really needed to write any of this, w
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Roadmap
+## Simple Voice Chat
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contributing
+## Traveler's Backpack
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## License
+## RightClickHarvest
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Contact
+## Farmer's Delight
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Acknowledgments
+## GrowthcraftCE
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Enchantment Descriptions
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## MrCrayfish's Furniture Mod
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Paintings ++
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # Extra Version Additions
 
