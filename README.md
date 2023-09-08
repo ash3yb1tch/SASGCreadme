@@ -59,7 +59,8 @@ First off, I'm going to assume you installed one of the two modpack files includ
 Going right into the reason for why I even really needed to write any of this, we have OpenPAC and its unnecessarily confusing commands. 
 
 
-![2023-09-08_13 31 55](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/79d4b87d-be57-4c18-a3c4-2abc963cde71)
+![2023-09-08_13 31 55](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/59662e6f-b95f-41fa-acb4-51faba04b198)
+
 
 
 The most important thing you should know is the keybind to open the menu for the mod, which is the `'` key by default. If all you needed was to know how to claim chunks for yourself, then this menu will be plenty for that purpose, including some settings you can tweak as you please. 
@@ -90,15 +91,18 @@ Now comes the hard part, which is setting up and joining Parties. The following 
 
 The next mod on our list, Simple Voice Chat is true to its namesake. To open the menu for the mod simply press the `V` key on your keyboard, where you will then see a few options. 
 
-![2023-09-08_13 37 44](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/5d765d50-1209-4f08-8556-20506f7a8b65)
+![2023-09-08_13 37 44](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/0e5a9bf1-faba-4c47-aa43-6f801c7f217d)
+
 
 The most important thing you will want to do first is to click on settings and choose a microphone to use, which is located in the bottom left of the new menu. After this, you may feel free to look through the other settings in here, such as the option to switch between Push-to-Talk and Voice, or amplifying the volume of your microphone. 
 
-![2023-09-08_13 42 53](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/0b171e70-78f2-4822-8f98-6658c91bb1a9)
+![2023-09-08_13 42 53](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/a8743de0-a654-44e9-86fd-a68e5cf9fab4)
+
 
 If you exit this menu and reenter the main menu, you can now select the button on the right side which says "Group" or you can press `G` to see this same screen. You will now see a screen that informs you of the currently active groups, as well as a button at the bottom to create your own.
 
-![2023-09-08_13 42 57](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/1b82ccb9-2a25-42bd-b90b-7b010c3992c9)
+![2023-09-08_13 42 57](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/2c4e67bc-607c-415e-b520-0d763cd21581)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +111,8 @@ If you exit this menu and reenter the main menu, you can now select the button o
 
 Traveler's Backpack is a rather simple mod, which adds various different backpacks to the game which, along with providing extra inventory space, also provide some additional benefits. To get started with the mod, you are going to want to craft the most basic backpack, aptly named "Standard Traveler's Backpack" which has the following crafting recipe.
 
-![2023-09-08_13 50 10](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/d85920a6-c39b-4796-bbd2-2e9d2a4fb5aa)
+![2023-09-08_13 50 10](https://github.com/ash3yb1tch/SASGCreadme/assets/125123809/2b6218fc-f6b7-445f-9160-6f9798a8ca75)
+
 
 The only thing one really needs to know is that to wear a backpack one presses right-click when looking at the air while holding a backpack in your hand, and that you can press `B` to access the backpack inventory while wearing it. From this point on the freedom is yours to explore the different backpacks included in the mod and the benefits it provides. If you wish to read more about the features found in the mod, access this link: https://www.curseforge.com/minecraft/mc-mods/travelers-backpack where you can scroll down and read about the full list of features.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
