@@ -20,10 +20,13 @@
         <ul> 
           <li><a href="#open-parties-and-claims">Open Parties and Claims</a></li>
           <li><a href="#simple-voice-chat">Roadmap</a></li>
-          <li><a href="#traveler's-backpack">Contributing</a></li>
+          <li><a href="#travelers-backpack">Contributing</a></li>
           <li><a href="#rightclickharvest">License</a></li>
-          <li><a href="#farmer's-delight">Contact</a></li>
+          <li><a href="#farmers-delight">Contact</a></li>
           <li><a href="#growthcraftce">Acknowledgments</a></li>
+          <li><a href="#enchantment-descriptions">Acknowledgments</a></li>
+          <li><a href="#mrcrayfishs-furniture-mod">Acknowledgments</a></li>
+          <li><a href="#Paintings ++">Acknowledgments</a></li>
         </ul>
     </li> 
   <li><a href="#extra-version-additions">Extra Version Additions</a></li>
