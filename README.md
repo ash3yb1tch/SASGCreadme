@@ -38,7 +38,7 @@
         </ul>
     </li>
     <li>
-       <a href="#extras">Extras</a>
+       <a href="#addons">Addons</a>
          <ul>
             <li><a href="#optifine">Optifine</a></li>
             <li><a href="#shaders">Shaders</a></li>
@@ -179,7 +179,7 @@ Mouse tweaks is a simplistic but useful mod which modifies some of the existing 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-# Extras
+# Addons
 
   Section containing any additional mods you may want to manually add, I might update this at some point if stuff is brought to my attention.
 
