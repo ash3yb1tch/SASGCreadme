@@ -41,6 +41,7 @@
        <a href="#extras">Extras</a>
          <ul>
             <li><a href="#optifine">Optifine</a></li>
+            <li><a href="#shaders">Shaders</a></li>
          </ul>
     </li>
   </ol>
@@ -187,8 +188,13 @@ Mouse tweaks is a simplistic but useful mod which modifies some of the existing 
 
 ## Optifine
 
+Based on some testing, the current stable release of Optifine for 1.20.1 does not work with the modpack, causing a crash. If you have experience with any of this feel free to try it on your own machine and see if it works for you. If you would just like to use the working version, this link: https://optifine.net/adloadx?f=preview_OptiFine_1.20.1_HD_U_I6_pre6.jar to the prerelease file functions. Simply download the file from the website, and then going back to the CurseForge app, click on the profile icon for whichever modpack version you are using. You then want to click on the three dots next to the play button, which will open up an extra set of buttons, where you will want to click on "Open Folder" and wait it for to open. When it loads, look through the list of folders and files for a folder named "mods" and insert the downloaded Optifine .jar file directly into this folder. You should now be able to return to CurseForge and launch your game, enjoying the benefits of Optifine like better performance and the ability to zoom in with the `C` key.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Shaders
 
+If you would like to utilise the full features of Optifine, I can recommend using the shaders found at this link: https://legacy.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders/files where you can select one of the availabe presets based on how capable your machine is. Once you have selected one of the presets, you will want to navigate to your shaders folder. The way I find easiest is to access it through Minecraft, by pressing the escape key on your keyboard while ing-game then clicking "Options" followed by "Video Settings" and lastly "Shaders" where you will now see a button in the bottom left to open your shaders folder. Clicking on this button, you now want to insert the .zip file you installed either from the link provided, or a shader of your choice. Returning to your game, now click on the name of the shader in the menu and wait for your game to reload, finding that your shader is now active. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
